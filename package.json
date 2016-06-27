@@ -1,0 +1,15 @@
+{
+  "name": "hyperdrive-swarm-hybrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && echo 'No Test Specified'"
+  },
+  "author": "Joe Hand <joe@joeahand.com> (http://joeahand.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "electron-webrtc": "^0.2.6",
+    "hyperdrive-archive-swarm": "^3.1.0"
+  }
+}
